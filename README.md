@@ -8,7 +8,7 @@ The system captures audio from an ICS-43434 I2S MEMS microphone, processes the s
 
 [[VIDEO / GIF HERE]](https://github.com/user-attachments/assets/bf25cad5-806e-4fc8-86c4-709ea70afff9)
 
-The demo shows the FPGA identifying notes as a musical E major scale is played into the microphone.
+The demo shows the FPGA identifying notes as a musical A Minor Pentatonic Blues Scale is played into the microphone.
 
 ## System Architecture
 
